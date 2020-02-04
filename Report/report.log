@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6630 64-bit) (preloaded format=pdflatex 2019.3.30)  4 FEB 2020 16:06
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6630 64-bit) (preloaded format=pdflatex 2019.3.30)  4 FEB 2020 16:38
 entering extended mode
 **./report.tex
 (report.tex
@@ -1195,23 +1195,34 @@ Package pdftex.def Info: figs/ntua.png  used on input line 62.
 \tf@toc=\write3
 \openout3 = `report.toc'.
 
- [1] [2] (report.aux) ) 
+ [1]
+Overfull \hbox (3.47612pt too wide) in paragraph at lines 93--94
+\LGR/cmr/m/n/10 Skopìc thc erasÐac aut c eÐ-nai h efar-mog  teqnik¸n exìruxhc g
+n¸shc apì to \OT1/cmr/m/n/10 dataset \OT1/cmr/bx/n/10 Chicago
+ []
+
+
+Overfull \hbox (9.30829pt too wide) in paragraph at lines 104--104
+[]\LGR/cmr/bx/n/14.4 SÔgkrish sumperas-mˆtwn me prag-matikˆ gegonìta 
+ []
+
+[2] (report.aux) ) 
 Here is how much of TeX's memory you used:
- 7965 strings out of 493305
- 114623 string characters out of 3138874
- 226041 words of memory out of 3000000
- 11378 multiletter control sequences out of 15000+200000
+ 7967 strings out of 493305
+ 114648 string characters out of 3138874
+ 227041 words of memory out of 3000000
+ 11380 multiletter control sequences out of 15000+200000
  8699 words of font info for 26 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,7n,40p,699b,281s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts
-/cm/cmbx10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx
-12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C
-:/Program Files/MiKTeX 2.9/fonts/type1/public/cbgreek/grmn1000.pfb><C:/Program 
-Files/MiKTeX 2.9/fonts/type1/public/cbgreek/grxn1000.pfb><C:/Program Files/MiKT
-eX 2.9/fonts/type1/public/cbgreek/grxn1200.pfb><C:/Program Files/MiKTeX 2.9/fon
-ts/type1/public/cbgreek/grxn1440.pfb>
-Output written on report.pdf (3 pages, 120494 bytes).
+ 41i,7n,40p,1897b,281s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/c
+mbx10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pf
+b><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Pro
+gram Files/MiKTeX 2.9/fonts/type1/public/cbgreek/grmn1000.pfb><C:/Program Files
+/MiKTeX 2.9/fonts/type1/public/cbgreek/grxn1000.pfb><C:/Program Files/MiKTeX 2.
+9/fonts/type1/public/cbgreek/grxn1200.pfb><C:/Program Files/MiKTeX 2.9/fonts/ty
+pe1/public/cbgreek/grxn1440.pfb>
+Output written on report.pdf (3 pages, 134841 bytes).
 PDF statistics:
  42 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
